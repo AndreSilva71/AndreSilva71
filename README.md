@@ -1,16 +1,16 @@
-### Hi there 👋
+### Ola bem vindo ao meu perfil 🕸️
 
-<!--
-**AndreSilva71/AndreSilva71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e André Guilherme
 
-Here are some ideas to get you started:
+- Sou estudante da ![alura](https://www.alura.com.br/)
+- Irei guardas meus codigos e conhecimentos que aprendi ao longo do curso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Meu contato 📫 
+
+sasufe12@gmail.com
+
+  ![](https://media1.tenor.com/m/9vXji9MpP-0AAAAC/spiderman-confused.gif)
+  
+
+
+
